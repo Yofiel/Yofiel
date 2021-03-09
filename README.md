@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá 👋🏻
 
-<!--
-**Yofiel/Yofiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Pedro Gobira. 👨🏻‍🇧🇷
 
-Here are some ideas to get you started:
+Eu sou um desenvolvedor/programador e venho estudando cada vez mais Python após meu relacionamento com Java. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou entusiasmado pela Web, assim como curioso com as possibilidades proporcionadas pelo Cloud Computing. Ademais, sempre estou disposto a aprender e implementar novas tecnologias.
+
+### 🌍 "Não há fatos eternos, como não há verdades absolutas" 🧠
+
+- 📍 Eunápolis, Bahia;
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas;
+- 💻 Técnico em Informática na Auto Peças Roni LTDA.
+
+Outros perfis 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gobira)](https://www.linkedin.com/in/pedro-gobira)
