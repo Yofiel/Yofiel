@@ -6,7 +6,7 @@ Eu sou um desenvolvedor/programador e venho estudando cada vez mais Python após
 
 Sou entusiasmado pela Web, assim como curioso com as possibilidades proporcionadas pelo Cloud Computing. Ademais, sempre estou disposto a aprender e implementar novas tecnologias.
 
-### 🌍 "Não há fatos eternos, como não há verdades absolutas" 🧠
+### 🌍 "Não há fatos eternos, como não há verdades absolutas" - Friedrich Nietzsche 🧠
 
 - 📍 Eunápolis, Bahia;
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas;
