@@ -2,7 +2,7 @@
 
 Meu nome é Pedro Gobira. 👨🏻‍🇧🇷
 
-Eu sou um desenvolvedor/programador e venho estudando cada vez mais Python. Também curto muito Java. 💻
+Eu sou um desenvolvedor/programador e venho estudando cada vez mais Python e Java. 💻
 
 Sou entusiasmado pela Web, assim como curioso com as possibilidades proporcionadas pelo Cloud Computing. Ademais, sempre estou disposto a aprender e implementar novas tecnologias.
 
