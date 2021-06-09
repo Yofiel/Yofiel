@@ -10,7 +10,7 @@ Sou entusiasmado pela Web, assim como curioso com as possibilidades proporcionad
 
 - 📍 Eunápolis, Bahia;
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas;
-- 💻 Técnico em Informática na Auto Peças Roni LTDA.
+- 💻 Técnico em Informática.
 
 Outros perfis 👇🏼
 
