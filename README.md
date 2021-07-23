@@ -25,7 +25,7 @@ Golang and software architecture.
 ### 📢 Find me elsewhere
 
 <p align="left">
-<a src="https://www.linkedin.com/in/pedro-gobira/">
+<a href="https://www.linkedin.com/in/pedro-gobira/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
 </p>
