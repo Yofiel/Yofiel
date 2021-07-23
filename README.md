@@ -8,7 +8,7 @@ I am a software developer passionate about technology and curious about the poss
 Golang and software architecture.
 
 ### 🚧 I build with...
-<p align="center">
+<p align="left">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top; margin:4px"/>
 
 <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="vertical-align:top; margin:4px"/>
@@ -22,6 +22,8 @@ Golang and software architecture.
 
 ### 📢 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-gobira)](https://www.linkedin.com/in/pedro-gobira)
-
-### 📖 "There are no eternal facts, as there are no absolute truths" - Friedrich Nietzsche: Human, All-too-Human 🧠
+<p align="left">
+<a src="https://www.linkedin.com/in/pedro-gobira/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top; margin:4px"/>
+</a>
+</p>
