@@ -4,7 +4,7 @@ My name is Pedro Gobira 👨🏻‍🇧🇷
 
 I am a software developer passionate about technology and curious about the possibilities provided by Cloud Computing. However, the most important thing is that I am always willing to learn and use new technologies.
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning...
 Golang and software architecture.
 
 ### 🚧 I build with...
