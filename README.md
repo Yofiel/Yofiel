@@ -5,10 +5,7 @@ My name is Pedro Gobira 👨🏻‍🇧🇷
 I am a software developer passionate about technology and curious about the possibilities provided by Cloud Computing. However, the most important thing is that I am always willing to learn and use new technologies.
 
 ### 🌱 I’m currently learning...
-- Quality Assurance with Java;
-- Site Reliability Engineer with Java;
-- Elasticsearch integration with Java;
-- Golang.
+- Something special for a special project... 😉🤐
 
 ### 🚧 I build with...
 <p align="left">
