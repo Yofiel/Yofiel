@@ -16,6 +16,8 @@ I am a software developer passionate about technology and curious about the poss
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px"/>
   
 <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:4px"/>
+  
+<img alt="Django" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" style="vertical-align:top; margin:4px"/>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:4px"/>
 
