@@ -8,7 +8,7 @@ I am a software developer passionate about technology and curious about the poss
 - Something special for a special project... 😉🤐
 
 ### 🚧 I build with...
-<p align="left">
+<p align="">
   
 <a href="#">
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top; margin:4px"/>
@@ -27,9 +27,13 @@ I am a software developer passionate about technology and curious about the poss
 </a>
 
 <a href="#">
-<img alt="Django" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" style="vertical-align:top; margin:4px"/>
+<img alt="Django REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" style="vertical-align:top; margin:4px"/>
 </a>
-
+  
+<a href="#">
+<img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" style="vertical-align:top; margin:4px"/>
+</a>
+  
 <a href="#">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
