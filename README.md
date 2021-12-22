@@ -31,6 +31,10 @@ I am a software developer passionate about technology and curious about the poss
 </a>
   
 <a href="#">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" style="vertical-align:top; margin:4px"/>
+</a>
+  
+<a href="#">
 <img alt="FastAPI" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
   
