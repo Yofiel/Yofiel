@@ -25,10 +25,6 @@ I am a software developer passionate about technology and curious about the poss
 <a href="#">
 <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="vertical-align:top; margin:4px"/>  
 </a>
-  
-<a href="#">
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="vertical-align:top; margin:4px"/>  
-</a>  
 
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px"/>
