@@ -36,10 +36,6 @@ I am a software developer passionate about technology and curious about the poss
 <a href="#">
 <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
-
-<a href="#">
-<img alt="ANGULAR" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
 </div>
 
 <div>
