@@ -42,11 +42,6 @@ I am a software developer passionate about technology and curious about the poss
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
-  
-<a href="#">
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-</div>
 
 <div>
 <a href="#">
