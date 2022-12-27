@@ -2,7 +2,7 @@
 
 My name is Pedro Gobira 👨🏻‍
 
-I am a software developer passionate about technology and curious about the possibilities provided by Cloud Computing. However, the most important thing is that I am always willing to learn and use new technologies.
+I am a software engineer passionate about technology and curious about the possibilities provided by Cloud Computing. However, the most important thing is that I am always willing to learn and use new technologies.
 
 ### 🌱 I’m currently learning...
 - Something special for a special project... 😉🤐
@@ -18,13 +18,11 @@ I am a software developer passionate about technology and curious about the poss
 <a href="#">
 <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
+</div>
 
-<a href="#">
-<img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="vertical-align:top; margin:4px"/>  
-</a>
-
-<a href="#">
-<img alt="VUE" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="vertical-align:top; margin:4px"/>  
+<div>
+  <a href="#">
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
 </div>
 
@@ -40,16 +38,11 @@ I am a software developer passionate about technology and curious about the poss
 
 <div>
 <a href="#">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-
-<div>
-<a href="#">
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="vertical-align:top; margin:4px"/>
+<img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="vertical-align:top; margin:4px"/>  
 </a>
 
 <a href="#">
-<img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="vertical-align:top; margin:4px"/>
+<img alt="VUE" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="vertical-align:top; margin:4px"/>  
 </a>
 </div>
 
