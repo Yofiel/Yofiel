@@ -21,21 +21,21 @@ I am a software engineer passionate about technology and curious about the possi
 </div>
 
 <div>
+<a href="#">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px"/>
+  </a>
+  
   <a href="#">
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:4px"/>
+  </a>
+  </div>
+  
+<div>
+<a href="#">
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
 </div>
-
-<div>
-<a href="#">
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-
-<a href="#">
-<img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-</div>
-
+    
 <div>
 <a href="#">
 <img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="vertical-align:top; margin:4px"/>  
