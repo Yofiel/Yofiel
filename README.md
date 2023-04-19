@@ -18,31 +18,13 @@ I am a software engineer passionate about technology and curious about the possi
 <a href="#">
 <img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
-</div>
-
-<div>
-<a href="#">
+  
+ <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:top; margin:4px"/>
-  </a>
+ </a>
   
-  <a href="#">
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="vertical-align:top; margin:4px"/>
-  </a>
-  </div>
-  
-<div>
 <a href="#">
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-</div>
-    
-<div>
-<a href="#">
-<img alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="vertical-align:top; margin:4px"/>  
-</a>
-
-<a href="#">
-<img alt="VUE" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="vertical-align:top; margin:4px"/>  
 </a>
 </div>
 
