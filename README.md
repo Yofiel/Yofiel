@@ -5,18 +5,14 @@ My name is Pedro Gobira 👨🏻‍
 I am a software engineer passionate about technology and curious about the possibilities provided by Cloud Computing. However, the most important thing is that I am always willing to learn and use new technologies.
 
 ### 🌱 I’m currently learning...
-- Something special for a special project... 😉🤐
+Something special for a special project... 😉🤐
 
-### 🚧 I build with...
+### 🚧 Currently working with...
 <p align="">
 
 <div>
 <a href="#">
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-
-<a href="#">
-<img alt="LARAVEL" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
   
  <a href="#">
@@ -25,21 +21,6 @@ I am a software engineer passionate about technology and curious about the possi
   
 <a href="#">
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-</div>
-
-<span>and, of course...</span>
-<div>
-<a href="#">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-
-<a href="#">
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:top; margin:4px"/>
-</a>
-  
-<a href="#">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="vertical-align:top; margin:4px"/>
 </a>
 </div>
 
