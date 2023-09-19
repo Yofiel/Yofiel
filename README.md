@@ -22,6 +22,10 @@ Something special for a special project... 😉🤐
 <a href="#">
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="vertical-align:top; margin:4px"/>
 </a>
+
+<a href="#">
+<img alt="Clojure" src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" style="vertical-align:top; margin:4px"/>
+</a>
 </div>
 
 </p>
